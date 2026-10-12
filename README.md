@@ -1,16 +1,14 @@
-## Hi there 👋
+# hi, i'm hikki
 
-<!--
-**devhikki/devhikki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Field telecom engineer by day. At night: self-hosting, Android and VPN routing.
 
-Here are some ideas to get you started:
+I keep a lab journal at [hikki.dev](https://hikki.dev) — one note per solved problem,
+with the commands, what was verified and what wasn't.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### here
+
+- [cifar10-resnet18-pytorch](https://github.com/devhikki/cifar10-resnet18-pytorch) — CIFAR-10 with ResNet-18, MixUp and a Gradio demo
+
+More projects move here from my own Forgejo as they get cleaned up for public view.
+
+[telegram](https://t.me/devhikki) · [hikki.dev](https://hikki.dev)
